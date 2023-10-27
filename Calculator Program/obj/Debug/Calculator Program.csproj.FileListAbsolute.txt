@@ -1,0 +1,7 @@
+C:\Users\beren\Desktop\Apps\C# Projects\Calculator Program\Calculator Program\bin\Debug\Calculator Program.exe.config
+C:\Users\beren\Desktop\Apps\C# Projects\Calculator Program\Calculator Program\bin\Debug\Calculator Program.exe
+C:\Users\beren\Desktop\Apps\C# Projects\Calculator Program\Calculator Program\bin\Debug\Calculator Program.pdb
+C:\Users\beren\Desktop\Apps\C# Projects\Calculator Program\Calculator Program\obj\Debug\Calculator Program.csproj.AssemblyReference.cache
+C:\Users\beren\Desktop\Apps\C# Projects\Calculator Program\Calculator Program\obj\Debug\Calculator Program.csproj.CoreCompileInputs.cache
+C:\Users\beren\Desktop\Apps\C# Projects\Calculator Program\Calculator Program\obj\Debug\Calculator Program.exe
+C:\Users\beren\Desktop\Apps\C# Projects\Calculator Program\Calculator Program\obj\Debug\Calculator Program.pdb
